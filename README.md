@@ -1,2 +1,2 @@
 # TFTP-Implementation-Cpp-
-TFTP Programmed From Scratch
+TFTP Server and Client Programmed From Scratch
